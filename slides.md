@@ -30,3 +30,5 @@ glow: center
 DRIVING DIGITAL INNOVATION FOR THE FEATURE
 
 ---
+src: ./pages/ending.md
+---
