@@ -16,10 +16,19 @@ seoMeta:
  ogImage: /images/og-image.png
  ogUrl: https://seon-kuraito.github.io/slidev-kdan-introduction
 
+layout: landing
 transition: fade-out
 glow: center
 ---
 
-# Welcome to Slidev
+::heading-title::
 
+數位賦能 智創未來
+
+::heading-description::
+
+DRIVING DIGITAL INNOVATION FOR THE FEATURE
+
+---
+src: ./pages/ending.md
 ---
