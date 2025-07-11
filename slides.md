@@ -30,5 +30,9 @@ glow: center
 DRIVING DIGITAL INNOVATION FOR THE FEATURE
 
 ---
+src: ./pages/culture.md
+---
+
+---
 src: ./pages/ending.md
 ---
