@@ -70,5 +70,21 @@ src: ./pages/glance-9.md
 ---
 
 ---
+src: ./pages/qa-1.md
+---
+
+---
+src: ./pages/qa-2.md
+---
+
+---
+src: ./pages/qa-3.md
+---
+
+---
+src: ./pages/qa-4.md
+---
+
+---
 src: ./pages/ending.md
 ---
