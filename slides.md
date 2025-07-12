@@ -34,5 +34,41 @@ src: ./pages/culture.md
 ---
 
 ---
+src: ./pages/glance-1.md
+---
+
+---
+src: ./pages/glance-2.md
+---
+
+---
+src: ./pages/glance-3.md
+---
+
+---
+src: ./pages/glance-4.md
+---
+
+---
+src: ./pages/glance-5.md
+---
+
+---
+src: ./pages/glance-6.md
+---
+
+---
+src: ./pages/glance-7.md
+---
+
+---
+src: ./pages/glance-8.md
+---
+
+---
+src: ./pages/glance-9.md
+---
+
+---
 src: ./pages/ending.md
 ---
