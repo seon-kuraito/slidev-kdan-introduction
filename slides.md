@@ -30,5 +30,25 @@ glow: center
 DRIVING DIGITAL INNOVATION FOR THE FEATURE
 
 ---
+src: ./pages/about-1.md
+---
+
+---
+src: ./pages/about-2.md
+---
+
+---
+src: ./pages/pdf-reader.md
+---
+
+---
+src: ./pages/dottedsign.md
+---
+
+---
+src: ./pages/dna.md
+---
+
+---
 src: ./pages/ending.md
 ---
