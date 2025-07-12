@@ -38,5 +38,13 @@ src: ./pages/about-2.md
 ---
 
 ---
+src: ./pages/pdf-reader.md
+---
+
+---
+src: ./pages/dottedsign.md
+---
+
+---
 src: ./pages/ending.md
 ---
